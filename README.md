@@ -1,9 +1,6 @@
 <p align="left">
   Hi 👋, I'm <strong>Ismeet Kachhap</strong><br><br>
-  I love being a full-stack developer because it allows me to work across both frontend and backend, bringing ideas to life from start to finish. 
-  The ability to integrate technologies—like Supabase and Neon—for seamless backend and frontend solutions excites me, and I enjoy the challenge of building complete, functional web applications.
-  I chose this path because I am passionate about understanding how websites work at every layer, and I appreciate the creativity and problem-solving involved in delivering robust, user-friendly products.
-  Being a full-stack developer lets me constantly learn, adapt, and contribute to every stage of the development process.
+  I love being a full-stack developer because it allows me to work across both frontend and backend, bringing ideas to life from start to finish. The ability to integrate modern technologies—such as Supabase, Neon, Convex, for seamless backend infrastructure, real-time data handling, and secure authentication excites me, and I enjoy the challenge of building complete, functional web applications. I chose this path because I am passionate about understanding how websites work at every layer, from databases and APIs to user interfaces and authentication flows. I appreciate the creativity and problem-solving involved in delivering robust, scalable, and user-friendly products, and being a full-stack developer allows me to constantly learn, adapt, and contribute to every stage of the development process.
 </p>
 
 ---
@@ -23,12 +20,18 @@
 
 ---
 
-<img
-  align="right"
-  height="150"
-  src="https://media1.giphy.com/media/3osxYamKD88c6pXdfO/giphy.gif"
-  alt="Coding animation"
-/>
+<div align="center">
+  <img
+    height="150"
+    src="https://media1.giphy.com/media/3osxYamKD88c6pXdfO/giphy.gif"
+    alt="Coding animation"
+  />
+  <img
+    height="150"
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhlY2E3MGtjZzExem13bmMwY3U4Mm10cjkxeG4xNmMwcDZvamJ6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2vogqNpFQywWC0z0j5/giphy.gif"
+    alt="Developer animation"
+  />
+</div>
 
 ---
 
@@ -68,8 +71,3 @@
 ---
 
 <br clear="both" />
-
-<img
-  src="https://raw.githubusercontent.com/IsmeetKachhap007/IsmeetKachhap007/output/snake.svg"
-  alt="GitHub contribution snake animation"
-/>
