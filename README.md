@@ -6,7 +6,7 @@ I love building fast, modern, and scalable applications. From frontend experienc
 
 🧰 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=debian,linux,git,github,bash,kubernetes,docker,js,ts,react,vite,nextjs,java,spring,express,nodejs,npm,go,graphql,postgres,redis,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=debian,linux,git,github,bash,kubernetes,docker,go,js,ts,react,vite,nextjs,express,nodejs,npm,postgres,redis,sqlite)](https://skillicons.dev)
 
 🌟 What I Do
 
